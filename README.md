@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy William Sebastian Pinto Da Silva</h1>
 <p align="center">
-  🧑‍💻 Estudiante en desarrollo de software | 💡 Apasionado por la creación de juegos y aplicaciones web
+  🧑‍💻 Developer Jr. | HHTML, CSS, JavaScript, Python, Godot 2D |💡 Apasionado por la creación de juegos y aplicaciones web
 </p>
 
 ---
