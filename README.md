@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy William Sebastián Pinto Da Silva</h1>
+            <h1 align="center">👋 Hola, soy William Sebastián Pinto Da Silva</h1>
 <p align="center">
   🧑‍💻 Estudiante en desarrollo de software | 💡 Apasionado por la creación de juegos y aplicaciones web
 </p>
@@ -53,6 +53,5 @@
 
 ---
 
-<p align="center"><i>“Cada línea de código es un paso más hacia un mejor futuro.”</i></p>
+<p align="center"><i>"Crecer Programando."</i></p>
 
-<p>"Crecer Programando."</p>
