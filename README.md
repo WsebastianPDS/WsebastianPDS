@@ -31,7 +31,7 @@
 🧱 Tecnologías:
 - HTML, CSS, JavaScript
 - Node.js, Express, WebSockets
-- Lógica de combate, posicionamiento en mapa, sistema de login
+- Lógica de combate, posicionamiento en mapa
 
 ---
 
