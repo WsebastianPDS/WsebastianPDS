@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hola, soy William Sebastian Pinto Da Silva</h1>
-<p align="center">
-  | 🧑‍💻 Developer Jr. | HTML5, CSS, JavaScript, Python, Godot 2D |
-</p>
+<p align="center"> 🧑‍💻 Developer Jr. | 🔍 QA Tester Jr. </p>
 
 ---
 
