@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy William Sebastian Pinto Da Silva</h1>
+<h1 align="center">👋 Hola, soy Sebastian Pinto Da Silva</h1>
 <p align="center"> 🧑‍💻 Developer Jr. | 🔍 QA Tester Jr. </p>
 
 ---
