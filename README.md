@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Sebastian Pinto Da Silva</h1>
-<p align="center"> 🧑‍💻 Developer Jr. | 🔍 QA Tester Jr. </p>
+<p align="center"> 🧑‍💻 Freelance Developer Jr. | 🔍 QA Tester Jr. </p>
 
 ---
 
