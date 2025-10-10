@@ -23,6 +23,7 @@
 > Juego web de combate por turnos, con selección de personajes, navegación por mapa y lógica multijugador (Node.js + JS + HTML/CSS)
 
 🔗 Probalo en GitHub Pages 👉 [Jugar ahora](https://wsebastianpds.github.io/elementos-game/)
+
 🧱 Tecnologías:
 
 - HTML, CSS, JavaScript
