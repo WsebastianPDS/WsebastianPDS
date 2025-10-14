@@ -33,10 +33,10 @@
 
 ## 📚 En proceso de aprendizaje
 
-- React.js y frameworks modernos
-- Seguridad web (autenticación y autorización)
-- APIs RESTful
-- MongoDB y bases NoSQL
+- Tecnicatura Superior en Desarrollo de Software en el Instituto de Formación Técnica Superior N° 29
+- 
+- 
+-
 
 ---
 
