@@ -33,11 +33,11 @@
 
 ## 📚 En proceso de aprendizaje
 
-- Tecnicatura Superior en Desarrollo de Software en el Instituto de Formación Técnica Superior N° 29
-- Fortaleciendo conocimientos en **Python** (lógica, POO, y frameworks como Flask/Django)
-- Prácticas de **testing manual**
-- Integración de **APIs** y conexión con bases de datos (MySQL / SQLite)
-- Profundizando en **buenas prácticas de desarrollo y control de versiones (Git/GitHub)**
+- Tecnicatura Superior en Desarrollo de Software en el Instituto de Formación Técnica Superior N° 29.
+- Fortaleciendo conocimientos en **Python** (lógica, POO, y frameworks como Flask/Django).
+- Prácticas de **testing manual**.
+- Integración de **APIs** y conexión con bases de datos (MySQL / SQLite).
+- Profundizando en **buenas prácticas de desarrollo y control de versiones (Git/GitHub)**.
 
 ---
 
