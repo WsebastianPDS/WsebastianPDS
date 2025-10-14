@@ -1,6 +1,5 @@
 <h1 align="center">William Sebastian Pinto Da Silva</h1>
 <p align="center"> 🧑‍💻 Freelance Developer Jr. | 🔍 QA Tester Jr. </p>
-<p align="center"><img src="https://img.shields.io/badge/Crecer%20Programando-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white"/></p>
 
 ---
 
