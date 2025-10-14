@@ -1,4 +1,4 @@
-<h1 align="center">Sebastian Pinto Da Silva</h1>
+<h1 align="center">William Sebastian Pinto Da Silva</h1>
 <p align="center"> 🧑‍💻 Freelance Developer Jr. | 🔍 QA Tester Jr. </p>
 
 ---
