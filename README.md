@@ -39,6 +39,7 @@
 - Prácticas de **testing manual**.
 - Integración de **APIs** y conexión con bases de datos (MySQL / SQLite).
 - Profundizando en **buenas prácticas de desarrollo y control de versiones (Git/GitHub)**.
+- Explorando el desarrollo de videojuegos indie 2D, creando prototipos y sistemas con **Godot y GDScript**.
 
 ---
 
