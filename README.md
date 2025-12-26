@@ -74,4 +74,4 @@ Backend desarrollado en C# y .NET orientado a la gestión de inventario.
 
 ---
 
-<p align="center"><i>"Aprender, practicar y mejorar."</i></p>
+<p align="center"><i>"Crecer Programando."</i></p>
