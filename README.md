@@ -1,56 +1,77 @@
 <h1 align="center">William Sebastian Pinto Da Silva</h1>
-<p align="center"> 🧑‍💻 Freelance Developer Jr. | 🔍 QA Tester Jr. </p>
+<p align="center">
+Junior Backend Developer | C# · .NET · SQL | QA Testing
+</p>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 👨‍💻 Perfil
+Desarrollador Backend Junior con enfoque en la construcción de sistemas de gestión y manejo de datos.  
+Experiencia en lógica de negocio, operaciones CRUD, validaciones y trabajo con bases de datos SQL, utilizando C# y .NET.
+
+Complemento mi perfil con conocimientos en testing manual, control de versiones y buenas prácticas de desarrollo.
+
+---
+
+## 🛠️ Tecnologías principales
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="GDScript"/>
 </p>
 
 ---
 
-## 🔥 Proyecto destacado
+## 🔥 Proyecto Backend Destacado
 
-### 🎮 ELEMENTOS
-> Juego web de combate por turnos, con selección de personajes, navegación por mapa y lógica multijugador (Node.js + JS + HTML/CSS)
+### 📦 Inventory Management Backend
+Backend desarrollado en C# y .NET orientado a la gestión de inventario.
 
-🔗 Probalo en GitHub Pages 👉 [Jugar ahora](https://wsebastianpds.github.io/elementos-game/)
+**Funcionalidades:**
+- Operaciones CRUD de productos
+- Validaciones de datos
+- Persistencia en base de datos SQL
+- Organización por capas y lógica de negocio clara
 
-🧱 Tecnologías:
+**Tecnologías:**
+- C#
+- .NET
+- SQL
+- Git / GitHub
 
-- HTML, CSS, JavaScript
-- Node.js 
-- Lógica de combate, posicionamiento en mapa
-
----
-
-## 📚 En proceso de aprendizaje
-
-- Tecnicatura Superior en Desarrollo de Software en el Instituto de Formación Técnica Superior N° 29.
-- Fortaleciendo conocimientos en **Python** (lógica, POO, y frameworks como Flask/Django).
-- Prácticas de **testing manual**.
-- Integración de **APIs** y conexión con bases de datos (MySQL / SQLite).
-- Profundizando en **buenas prácticas de desarrollo y control de versiones (Git/GitHub)**.
-- Explorando el desarrollo de videojuegos indie 2D, creando prototipos y sistemas con **Godot y GDScript**.
+📌 Proyecto enfocado en prácticas reales de backend y manejo de datos.
 
 ---
 
-## 🌐 Conectemos
+## 🧪 QA & Calidad
+- Testing manual de funcionalidades
+- Validación de requerimientos
+- Detección temprana de errores
+- Documentación básica de casos de prueba
+
+---
+
+## 📚 Formación
+- Tecnicatura Superior en Desarrollo de Software  
+  Instituto de Formación Técnica Superior N° 29
+- Formación continua en backend, bases de datos y buenas prácticas
+
+---
+
+## 🌐 Contacto
 
 <p align="center">
-  <a href="mailto:williamsebastianpds@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/wsebastianpds"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:williamsebastianpds@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wsebastianpds">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>"Crecer Programando."</i></p>
-
+<p align="center"><i>"Aprender, practicar y mejorar."</i></p>
