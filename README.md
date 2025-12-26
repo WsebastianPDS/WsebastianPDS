@@ -55,8 +55,7 @@ Backend desarrollado en C# y .NET orientado a la gestión de inventario.
 ---
 
 ## 📚 Formación
-- Tecnicatura Superior en Desarrollo de Software  
-  Instituto de Formación Técnica Superior N° 29
+- Tecnicatura Superior en Desarrollo de Software - Instituto de Formación Técnica Superior N° 29
 - Formación continua en backend, bases de datos y buenas prácticas
 
 ---
